@@ -31,10 +31,28 @@
 
 <!--Intro end-->
 
+<!--Stats start-->
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=danipoav&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
+</p>
+
+
+
+<!--Stats end-->
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Most used languages</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
